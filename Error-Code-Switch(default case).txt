@@ -1,0 +1,4 @@
+Error Code-Q4.java:72: error: orphaned default
+default:
+^
+Solution- Check for any unclosed brackets
